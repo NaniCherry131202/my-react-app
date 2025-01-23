@@ -24,7 +24,7 @@ const DynamicRating = () => {
       }}
     >
       <Typography variant="h6" component="div">
-        Rate Your Experience
+        Rate Your View
       </Typography>
       <Rating
         name="dynamic-rating"
